@@ -1,4 +1,4 @@
-const pageSize  = 10;
+const pageSize = 15;
 
 export {
     pageSize

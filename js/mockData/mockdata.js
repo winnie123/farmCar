@@ -13998,8 +13998,25 @@ const carList = [{
         'n': 11,
         'l': 212
     }
-]
+];
+
+const typeAList = [];// 大类
+const typeBList = [];// 小类
+const carTypeList = [];// 机具型号
+const categoryList = [];// 机具品目
+const nameList = [];// 分档名称
+const carCityList = [];// 所在地
+const typeList = [];// 产品名称
+
 
 export {
-    carList
+    carList,
+    typeAList,
+    typeBList,
+    carTypeList,
+    categoryList,
+    nameList,
+    carCityList,
+    typeList
+
 }
